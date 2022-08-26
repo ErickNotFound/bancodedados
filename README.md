@@ -1,5 +1,8 @@
 # <h1 align="center"> ![logo do site](https://imagizer.imageshack.com/v2/240x135q90/c/r/922/ebg6Pg.png) </h1>
 
+ <h4> Todos sabem da importância dos pokémons nas nossas vidas. Eles são os melhores amigos dos seres humanos e, através de imenso companheirismo, tornam-se parte da família. Estudos da revista PokeScience mostram que quem possui um pokémon tende a ser duas vezes mais feliz do que aqueles que não possuem. A pesquisa também elucidou a importância desses bichinhos no desenvolvimento cognitivo das crianças.
+  Contudo, desde a Primeira Revolução Industrial, o planeta tem passado por diversas mudanças climáticas e vários pokémons perderam seus habitats, levando inúmeras espécies ao risco de extinção. Nós acreditamos ser de suma importância tomar as medidas necessárias para preservar essas formas de vida tão singulares e essenciais para o ecossistema e foi então que surgiu a ideia de criar a PokeStore, uma loja sustentável pioneira nesse segmento. Buscamos, com isso, proteger essa biodiversidade e tornar a causa mais conhecida entre os treinadores de pokémon, fazendo com que eles se juntem a nós nessa missão de proteger os bichinhos. <h4>
+
 ## :heavy_check_mark: Tecnologia usada
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 
