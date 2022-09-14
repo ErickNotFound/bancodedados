@@ -1,6 +1,6 @@
 -- Comandos para criar as tabelas
 
-REATE TABLE "funcionario" (
+CREATE TABLE "funcionario" (
   "func_cd_id" serial,
   "func_tx_nome" varchar(40) not null,
   "func_tx_cpf" varchar(11) not null unique,
